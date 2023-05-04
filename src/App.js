@@ -41,7 +41,6 @@ function App() {
   }; 
 
   
-  /* ENG ver */
   const dateBuilderENG = (d) => {
     let months = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"];
     let days = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"];
@@ -54,7 +53,6 @@ function App() {
     return `${day} ${date} ${month} ${year}`
   }
 
-  /* ESP ver */
   const dateBuilderSP = (d) => {
     let meses = ["Enero", "Febrero", "Marzo", "Abril", "Mayo", "Junio", "Julio", "Agosto", "Septiembre", "Octubre", "Noviembre", "Diciembre"];
     let dias = ["Lunes", "Martes", "Miércoles", "Jueves", "Viernes", "Sábado", "Domingo"];
@@ -76,7 +74,6 @@ function App() {
         : 'app'}>
 
 
-
       <div className="search">
         <input
           value={location}
@@ -96,7 +93,6 @@ function App() {
       </div>
 
 
-
       <div className="container">
         <div className="top">
           <div>
@@ -106,12 +102,9 @@ function App() {
             {data.main ? <h1>{data.main.temp.toFixed()}°C</h1> : null}
           </div>
           <div>
-            {/* {data.weather ? 
+            {data.weather ? 
             <p className="description">{data.weather[0].description}</p> 
-            : null} */}
-            {isChecked ? 
-            <p className="description">{data.weather[0].description}</p>
-            : <p className="description">{data.weather[0].description}</p>}
+            : null}
 
             <div className="date">
                 {isChecked ? 
