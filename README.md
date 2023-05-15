@@ -16,7 +16,7 @@ Pablo Paez - Desarrollador Web - pablopaez2307@gmail.com
   <h3 align="center">Aplicacion de Clima con React!</h3>
 </div>
 
-## El proyecto😎
+# El proyecto😎
 
 Este proyecto se originó debido a que deseaba ampliar mi portfolio de proyectos en React para poder demostrar mis conocimientos en el area del Desarrollo Web.
 
@@ -25,10 +25,18 @@ Este proyecto se originó debido a que deseaba ampliar mi portfolio de proyectos
 Este proyecto utiliza como herramienta principal: 
 [![React][React.js]][React-url]
 
-Ademas de React, se utilizaron conocimientos en HTML,CSS,JSon,GitKraken,Vercel Hosting y la API de OpenWeather
+Ademas de React, se utilizaron conocimientos en:
+
+    -HTML
+    -CSS
+    -JAVASCRIPT
+    -GIT KRAKEN
+    -JSON
+    -VERCEL HOSTING
+    -API de OpenWeather
 
 
-## Como funciona?🤔
+# Como funciona?🤔
 
 Esta aplicacion es de uso sencillo, se debe introducir una ciudad en el area de busqueda y luego apretar 'ENTER' para enviar los datos.
 Tambien podes elegir el idioma en el que se muestra la informacion!
@@ -45,7 +53,7 @@ Ejemplos: Cairo (Egipto)🌞 Tokyo (Japon)⛅ Yakutsk (Rusia)⛄
 
 
 
-## Version Mobile📱
+# Version Mobile📱
 
 
 <div align="center">
@@ -54,7 +62,7 @@ Ejemplos: Cairo (Egipto)🌞 Tokyo (Japon)⛅ Yakutsk (Rusia)⛄
 
 
 
-## Instalacion
+# Instalacion
 
 ### Requisitos previos
 
