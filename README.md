@@ -1,70 +1,94 @@
-# Getting Started with Create React App
+### Pablo Paez 💻
+# Aplicacion de Clima y Estado Meteorológico - React
+# Live Test!
+Live Link proximamente!
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### Contacto📩
 
-## Available Scripts
+Pablo Paez - Desarrollador Web - pablopaez2307@gmail.com
 
-In the project directory, you can run:
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<br />
+<div align="center">
+  
+  <h3 align="center">Aplicacion de Clima con React!</h3>
+</div>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## El proyecto😎
 
-### `npm test`
+Este proyecto se originó debido a que deseaba ampliar mi portfolio de proyectos en React para poder demostrar mis conocimientos en el area del Desarrollo Web.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Tecnologias utilizadas:
 
-### `npm run build`
+Este proyecto utiliza como herramienta principal: 
+[![React][React.js]][React-url]
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Ademas de React, se utilizaron conocimientos en HTML,CSS,JSon,GitKraken,Vercel Hosting y la API de OpenWeather
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Como funciona?🤔
 
-### `npm run eject`
+Esta aplicacion es de uso sencillo, se debe introducir una ciudad en el area de busqueda y luego apretar 'ENTER' para enviar los datos.
+Tambien podes elegir el idioma en el que se muestra la informacion!
+<br/>
+<br/>
+Si la ciudad esta bien escrita la aplicacion se actualizara a tiempo real para mostrarnos los datos de la ciudad ingresada (Temperatura, el estado de clima, el pais de la misma, sensacion termica, humedad, etc )
+<br/>
+<br/>
+Secreto: La aplicacion cambia el fondo dependiendo la temperatura de la ciudad ingresada! Podes probar ingresando ciudades calurosas, otras frias y otras de temperaturas ni tan altas ni tan bajas.
+<br/>
+Ejemplos: Cairo (Egipto)🌞 Tokyo (Japon)⛅ Yakutsk (Rusia)⛄
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+<br/>
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## Version Mobile📱
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+<div align="center">
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+</div>
 
-### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
+## Instalacion
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+### Requisitos previos
 
-### Making a Progressive Web App
+Se recomienda tener la ultima version de npm para evitar errores:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+  ```sh
+  npm install npm@latest -g
+  ```
+* Gitbash/GitKraken o su software de preferencia y Visual Studio Code
 
-### Advanced Configuration
+### Clonar repositorio
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
-### Deployment
+1. Clonar el repositorio
+   ```sh
+   git clone https://github.com/Pepe2307/Clima_React.git
+   ```
+   
+2. Instalar paquetes NPM
+Abrir dentro de Visual Studio Code la carpeta del repositorio clonado > darle click derecho a la misma > Abrir en terminal
+   ```sh
+   npm install
+   ```
+   
+3. Inicializar proyecto
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+   ```js
+   npm start
+   ```
 
-### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<!-- LINKS -->
+
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://www.linkedin.com/in/pablo-paez-t/
+[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+[React-url]: https://reactjs.org/
