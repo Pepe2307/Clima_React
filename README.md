@@ -12,8 +12,10 @@ Pablo Paez - Desarrollador Web - pablopaez2307@gmail.com
 
 <br />
 <div align="center">
-  
-  <h3 align="center">Aplicacion de Clima con React!</h3>
+
+  <a href="https://github.com/Pepe2307/Clima_React">
+    <img src="src/assets/images/desktop.jpg" alt="Logo">
+  </a>
 </div>
 
 # El proyecto😎
@@ -55,10 +57,13 @@ Ejemplos: Cairo (Egipto)🌞 Tokyo (Japon)⛅ Yakutsk (Rusia)⛄
 
 # Version Mobile📱
 
-
 <div align="center">
 
+  <a href="https://github.com/Pepe2307/Clima_React">
+    <img src="src/assets/images/mobile.jpg" alt="Logo">
+  </a>
 </div>
+
 
 
 
